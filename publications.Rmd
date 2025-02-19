@@ -1,0 +1,46 @@
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Publications
+
+## 2025
+**Are we good at sharing…data?**
+*Alaka Holla, Laura Becerra Luna, Meyhar Mohammed* - World Bank Data Blog, 2025
+https://blogs.worldbank.org/en/opendata/are-we-good-at-sharing--data-
+
+## 2024
+**Evaluation of Estonia’s enhanced care management program: protocol for a cluster randomized trial**
+*Benjamin Daniels, Daniel Rogger, Meyhar Mohammed, Kaatre Vaarsi, Kevin Croke* - International Journal of Clinical Trials, 2024
+https://doi.org/10.18203/2349-3259.ijct20240041
+
+## 2023
+**Fall injuries in Sub-Saharan Africa: analysis of prospective injury registry from 23 health facilities in Malawi and Tanzania**
+*Hendry R. Sawe, Wakisa Mulwafu, Linda Chokotho, Kevin Croke, Rachel Chamanga, Meyhar Mohammed, Jonna Bertfelt, Harrieth P. Ndumwa, Juma A. Mfinanga & Sveta Milusheva*- BMC Emergency Medicine, 2023
+https://doi.org/10.1186/s12873-023-00805-x
+
+## 2022
+
+**Epidemiology of adult trauma injuries in Malawi: results from a multisite trauma registry**
+*Linda Chokotho, Kevin Croke, Meyhar Mohammed,  Wakisa Mulwafu, Jonna Bertfelt, Saahil Karpe &  Sveta Milusheva* - Injury Epidemiology, 2022
+https://injepijournal.biomedcentral.com/articles/10.1186/s40621-022-00379-5
+
+**Trauma Incidence and Emergency Medical Services in Malawi**
+*World Bank*, 2022
+https://documents1.worldbank.org/curated/en/176181642602064254/pdf/Trauma-Incidence-and-Emergency-Medical-Services-in-Malawi.pdf
+
+## 2021
+**Burden of Road Traffic Injuries in Tanzania: One-Year Prospective Study of Consecutive Patients in 13 Multilevel Health Facilities**
+*Hendry R Sawe, Sveta Milusheva, Kevin Croke, Saahil Karpe, Meyhar Mohammed, Juma A Mfinanga*- Emergency medicine international, 2021
+https://doi.org/10.1186/S40621-022-00379-5
+
+
+## 2020
+ **Implementation of a multi-center digital trauma registry: Experience in district and central hospitals in Malawi** 
+ *Croke, K., Chokotho, L., Milusheva, S., Bertfelt, J., Karpe, S., Mohammed, M., & Mulwafu, W.* - The International journal of health planning and management, 35(5), 1157–1172, 2020
+https://doi.org/10.1002/hpm.3023
+
+
